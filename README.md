@@ -1,3 +1,5 @@
+声明：本项目搬运自https://gitee.com/yu2324922276/master-degree.git ，为学习方便。
+
 ### open px4 user-guide
 
 `yarn docs:dev`
@@ -22,10 +24,8 @@
 - gz_gard 加文件：`GZ_SIM_RESOURCE_PATH`
 - `ekf2 stop/start`
 ### 分支
-- `master`:啥都没有
 - `dev`:开发分支
 - `drone`:仿真分支
-- 其他分支:开发用，没有实际意义
 
 ### 启动步骤
 #### 仿真环境
