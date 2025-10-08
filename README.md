@@ -1,4 +1,4 @@
-声明：本项目搬运自https://gitee.com/yu2324922276/master-degree.git ，为学习方便。
+https://gitee.com/yu2324922276/master-degree.git.
 
 ### open px4 user-guide
 
